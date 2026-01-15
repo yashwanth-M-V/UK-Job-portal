@@ -8,22 +8,25 @@ Expired postings are automatically removed based on deadlines.
 
 ### Social Media Lead – Lloyads
 📍 Location: Multiple location  
-🧠 Experience: 2+ years  
-🔗 Apply: https://lbg.wd3.myworkdayjobs.com/en-US/LBG_Careers/job/London/Social-Media-Lead_149814
+🧠 Experience: 2+ years
+⏳ Deadline: 2026-01-19   
+🔗 Apply: <a href="https://lbg.wd3.myworkdayjobs.com/en-US/LBG_Careers/job/Edinburgh/Software-Engineer_150221-1" target="_blank" rel="noopener noreferrer">Link</a>
 
 ---
 
 ### Data Scientist – Lloyds
 📍 Location: Bristol  
-🧠 Experience: Freshers  
-🔗 Apply: https://lbg.wd3.myworkdayjobs.com/en-US/LBG_Careers/job/Bristol-Harbourside/Data-Scientist_133098-2
+🧠 Experience: Freshers
+⏳ Deadline: 2026-01-28   
+🔗 Apply: <a href="https://lbg.wd3.myworkdayjobs.com/en-US/LBG_Careers/job/Edinburgh/Software-Engineer_150221-1" target="_blank" rel="noopener noreferrer">Link</a>
 
 ---
 
 ### Software Engiineer – Lloyds
 📍 Location: Edinburgh  
-🧠 Experience: Freshers  
-🔗 Apply: https://lbg.wd3.myworkdayjobs.com/en-US/LBG_Careers/job/Edinburgh/Software-Engineer_150221-1
+🧠 Experience: Freshers
+⏳ Deadline: 2026-01-29   
+🔗 Apply: <a href="https://lbg.wd3.myworkdayjobs.com/en-US/LBG_Careers/job/Edinburgh/Software-Engineer_150221-1" target="_blank" rel="noopener noreferrer">Link</a>
 
 
 <!-- END:JOB_POSTINGS -->

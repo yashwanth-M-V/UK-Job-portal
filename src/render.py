@@ -3,7 +3,7 @@ def render_markdown(df) -> str:
     
     for _, row in df.iterrows():
         link_html = (
-            f'<a href="{row["link"]}" '
+            f'<a href="{row["Link"]}" '
             f'target="_blank" rel="noopener noreferrer">Link</a>'
         )
 
